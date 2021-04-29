@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidSeminar - HW2</string>
+    <string name="select">select</string>
+    <string name="detect">detect</string>
+    <string name="textview">TextView</string>
+    <string name="label">label</string>
+    <string name="probability">Probability</string>
+</resources>
